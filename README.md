@@ -1,10 +1,10 @@
 # Data Science Portfolio - Susan Kight, M.S.
 
-<p>Portfolio of data science projects completed by me and presented in the form of iPython Jupyter Notebooks, R Markdown files and other file formats for final report findings.</p>
+<p>Portfolio of data science projects completed by me and presented in the form of iPython Jupyter Notebooks, R Markdown files and non-technical reports.</p>
 
 <h2>About Me</h2>
 <p><strong>Redefining organizational competitiveness at the intersect of data, strategy, and digital to drive decision making and add value.</strong></p>
-<p>A seasoned professional with 15 years’ experience across data and analytics, business analysis, product lifecycle management, project management, and marketing in Healthcare, Finance, and Education industries. Passionate about using data to inform business decisions and strategy that drive operational efficiencies, greater customer engagement, optimize product acquisition funnels, and expand customer retention/share of relationship. Recent graduate study (M.S. Business Analytics) at a top ranked Data Science program leading to enhanced breadth of experience and depth in data science and advanced analytics.</p>
+<p>A seasoned professional with 15 years’ experience across data and analytics, business analysis, product lifecycle management, project management, and marketing in Healthcare, Finance, and Education industries. Passionate about using data to inform business decisions and strategy that drive operational efficiencies, greater customer engagement, optimize product acquisition funnels, and expand customer retention/share of relationship. Recent graduate study (M.S. Business Analytics) at a top ranked Data Science program leading to enhanced breadth of experience and depth in data science and advanced analytics. Use data analysis skills to offer pro bono support to local food pantries and on track to publish research study.</p>
 
 
 
