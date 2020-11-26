@@ -1,10 +1,16 @@
 # Data Science Portfolio - Susan Kight, M.S.
 
-<p>Portfolio of data science projects completed by me and presented in the form of iPython Jupyter Notebooks, R Markdown files and non-technical reports.</p>
+<p>Portfolio of data science projects completed by me in academic and pro bono settings, and presented in the form of iPython Jupyter Notebooks, R Markdown files, and non-technical business presentations.</p>
 
 <h2>About Me</h2>
-<p><strong>Redefining organizational competitiveness at the intersect of data, strategy, and digital to drive decision making and add value.</strong></p>
-<p>A seasoned professional with 15 years’ experience across data and analytics, business analysis, product lifecycle management, project management, and marketing in Healthcare, Finance, and Education industries. Passionate about using data to inform business decisions and strategy that drive operational efficiencies, greater customer engagement, optimize product acquisition funnels, and expand customer retention/share of relationship. Recent graduate study (M.S. Business Analytics) at a top ranked Data Science program leading to enhanced breadth of experience and depth in data science and advanced analytics. Use data analysis skills to offer pro bono support to local food pantries and on track to publish research study.</p>
+<p><strong>I redefine organizational competitiveness at the intersection of data, strategy, and digital products to guide decision making and add business value.</strong></p>
+<p>A fifteen-year diverse career evolving from marketing, business analysis, product management to data and analytics, and recent graduate study from a top-ranked Data Science masters program has created a unique skill set that is my greatest strength. Known as a chief connector between business and technical teams who is a get-it-done guru, I strive on delivering business outcomes.</p>
+
+<p>What excites me is data and analytics – it's my passion. Together with strong ambition as a data-driven problem solver and facination for data science, it has set a spark to use data in a way that transforms organizations to deliver real change and maximize value.</p>
+
+<p>I thrive in cultures that embrace data and have a data-driven decision-making culture. This expands into the pro bono work that I do for a coalition of local food pantries offering data analytics services for which I’m on track to publish an IRB approved research study of my work on food insecurity.</p>
+
+<p>The evolution in my career has been fueled by my curiosity, approach as a continuous learner, and innate data-driven intuition. It has enabled my career to develop towards data science as my skills have advanced. Using data and providing analytics, I add value across organizations supporting customer growth, market competitiveness, operational efficiencies and delivering business outcomes.</p>
 
 
 
