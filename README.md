@@ -3,8 +3,8 @@
 <p>Portfolio of data science projects completed by me in academic and pro bono settings, and presented in the form of iPython Jupyter Notebooks, R Markdown files, and non-technical business presentations.</p>
 
 <h2>About Me</h2>
-<p><strong>I redefine organizational competitiveness at the intersection of data, strategy, and digital products to guide decision making and add business value.</strong></p>
-<p>A fifteen-year diverse career evolving from marketing, business analysis, product management to data and analytics, and recent graduate study from a top-ranked Data Science masters program has created a unique skill set that is my greatest strength. Known as a chief connector between business and technical teams who is a get-it-done guru, I strive on delivering business outcomes.</p>
+<p><strong>**I redefine organizational competitiveness at the intersection of data, domain knowledge/strategy, and digital products to guide decision making and add business value.**</strong></p>
+<p>A fifteen-year diverse career evolving from data and analytics, marketing, business analysis, product management to project management, and recent graduate study from a **top-ranked Data Science masters program** has created a unique skill set that is my greatest strength. Known as a chief connector between business and technical teams who is a get-it-done guru, I strive on delivering business outcomes.</p>
 
 <p>What excites me is data and analytics – it's my passion. Together with strong ambition as a data-driven problem solver and facination for data science, it has set a spark to use data in a way that transforms organizations to deliver real change and maximize value.</p>
 
