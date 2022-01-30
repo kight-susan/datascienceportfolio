@@ -8,7 +8,7 @@
 <p><strong>I redefine organizational competitiveness at the intersection of data, domain knowledge, and strategy to guide decision making and add business value.</strong></p>
 <p>A <strong>fifteen-year diverse career</strong> evolving from <strong>data and analytics</strong>, marketing, business analysis, product management to project management, combined with masters in <strong>Data Science from University of Iowa and post graduate program in Data Engineering from Purdue University</strong> has created a unique skill set that is my greatest strength. Known as a chief connector between business and technical teams who is a get-it-done guru, I strive on delivering business outcomes.</p>
 
-<p>What excites me is data and analytics – it's my passion. Together with strong ambition as a data-driven problem solver and facination for data science, it has set a spark to use data in a way that transforms organizations to deliver real change and maximize value.</p>
+<p>What excites me is data is the endless problems that can be solved and opportunities created using it. My passion for data, has set a spark to use data to transform organizations to maximize value and deliver real change.</p>
 
 <p>I thrive in cultures that embrace data and have a data-driven decision-making culture. This expands into the pro bono work that I do for a coalition of local food pantries offering data analytics services for which I’m on track to publish an IRB approved research study of my work on food insecurity.</p>
 
