@@ -5,8 +5,8 @@
 <p><a href="https://kight-susan.github.io/">Professional Website</a></p>
 
 <h2>About Me</h2>
-<p><strong>I redefine organizational competitiveness at the intersection of data, domain knowledge/strategy, and digital products to guide decision making and add business value.</strong></p>
-<p>A <strong>fifteen-year diverse career</strong> evolving from <strong>data and analytics</strong>, marketing, business analysis, product management to project management, and recent graduate study from a <strong>top-ranked Data Science masters program</strong> has created a unique skill set that is my greatest strength. Known as a chief connector between business and technical teams who is a get-it-done guru, I strive on delivering business outcomes.</p>
+<p><strong>I redefine organizational competitiveness at the intersection of data, domain knowledge, and strategy to guide decision making and add business value.</strong></p>
+<p>A <strong>fifteen-year diverse career</strong> evolving from <strong>data and analytics</strong>, marketing, business analysis, product management to project management, combined with masters in <strong>Data Science from University of Iowa and post graduate program in Data Engineering from Purdue University</strong> has created a unique skill set that is my greatest strength. Known as a chief connector between business and technical teams who is a get-it-done guru, I strive on delivering business outcomes.</p>
 
 <p>What excites me is data and analytics – it's my passion. Together with strong ambition as a data-driven problem solver and facination for data science, it has set a spark to use data in a way that transforms organizations to deliver real change and maximize value.</p>
 
